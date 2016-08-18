@@ -1,0 +1,38 @@
+body {
+  padding-top: 50px;
+}
+
+#headerimg {
+  padding-top: 20px;
+}
+.table-fiftyfifty td {
+  width: 50%;
+}
+.table-quarters td {
+  width: 25%;
+}
+.muted {
+  color: #999;
+}
+.horizontal-scroll-150 {
+  width: 150px;
+  overflow: auto;
+  white-space:nowrap;
+}
+.horizontal-scroll-200 {
+  width: 200px;
+  overflow: auto;
+  white-space:nowrap;
+}
+
+
+.table-fixed{
+    table-layout: fixed ;
+}
+
+
+.scrollable{
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
